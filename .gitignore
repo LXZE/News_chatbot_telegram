@@ -102,3 +102,22 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#custom
+.DS_Store
+.vscode/
+__MACOSX/
+
+bin/
+include/
+mallet/
+man/
+node_modules/
+share/
+yarn.lock
+
+*.gensim*
+*.pkl
+
+#credential
+account.txt

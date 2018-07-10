@@ -1,0 +1,14 @@
+{
+  "name": "NLPProject",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+	  "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "request": "^2.85.0",
+    "telegraf": "^3.20.0"
+  }
+}
