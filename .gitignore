@@ -115,6 +115,8 @@ man/
 node_modules/
 share/
 yarn.lock
+last.txt
+pip-selfcheck.json
 
 *.gensim*
 *.pkl
