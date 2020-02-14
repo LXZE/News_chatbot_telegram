@@ -6,7 +6,7 @@ This chatbot allow users to query about news with the certain given topic. Then 
 
 This bot's whole repository is created within 5 days, as a result, bare with me if code is really mess, buggy or really hard to understand.
 
-For detail, [This report](./NLP Report.pdf) explained about the methodology, architecture and implementation.
+For detail, [This report](https://github.com/LXZE/News_chatbot_telegram/blob/master/NLP%20Report.pdf) explained about the methodology, architecture and implementation.
 
 ## Instruction (for now)
 ```sh
